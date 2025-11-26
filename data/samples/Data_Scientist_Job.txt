@@ -1,0 +1,14 @@
+Position: Data Scientist
+Company: InsightAI Labs
+Location: Boston, MA
+
+Responsibilities:
+- Analyze datasets and build predictive models.
+- Develop dashboards to visualize business insights.
+- Work cross-functionally with product and engineering teams.
+
+Requirements:
+- 2+ years of experience with machine learning and data analytics.
+- Strong in Python, Pandas, and scikit-learn.
+- Experience with SQL and data visualization tools (Tableau, Power BI).
+- Knowledge of statistical modeling and A/B testing.

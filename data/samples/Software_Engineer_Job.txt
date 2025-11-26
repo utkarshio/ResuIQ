@@ -1,0 +1,15 @@
+Position: Software Engineer (Backend)
+Company: TechNova Solutions
+Location: Remote / San Francisco, CA
+
+Responsibilities:
+- Build and maintain scalable APIs using Node.js or Python.
+- Collaborate with frontend and DevOps teams to deliver reliable products.
+- Optimize databases (PostgreSQL, MongoDB) for performance and cost.
+- Write clean, maintainable, and tested code.
+
+Requirements:
+- 2-4 years of backend development experience.
+- Proficiency in JavaScript or Python.
+- Experience with REST APIs, Git, and cloud environments (AWS or GCP).
+- Familiarity with CI/CD pipelines.
