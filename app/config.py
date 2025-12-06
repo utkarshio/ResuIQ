@@ -36,11 +36,13 @@ def pdfscan(path):
 
 def docscan(path):
     doc = Document(path)
+    docOut = "\n".join(para.text for para in doc.paragraphs)
     print("---------------Doc EXtracted Text-----------------")
-    for para in doc.paragraphs:
-        print(para.text)
-        # return para.text
-    return ""
+    # print(docOut)
+    return docOut
+
+    # return docOut
+    # return ""
 # extract_doc = 
 # print(docscan(path))
 
